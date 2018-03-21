@@ -3,7 +3,8 @@ Generates a CSV for adwords to automatically import, just point the manual conve
 
 1 - update voluum username & password in adwords_conversions.php
 2 - update timezone in adwords_conversions.php
-2 - point the adwords remote conversion location to the url below, with the campaign ID in the link.
+3 - set GCLID as the extenal id in your voluum campaign (http://prntscr.com/iubriw)
+4 - point the adwords remote conversion location to the url below, with the campaign ID in the link.
 
 example.com/adword_conversions.php?cid=<<<VOLUUMCAMPAIGNID>>>
 
