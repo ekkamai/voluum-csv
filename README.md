@@ -1,4 +1,4 @@
-# Voluum API to CSV For adwords
+# Voluum API to CSV For Adwords
 Generates a CSV for adwords to automatically import, just point the manual conversion source to the script with the voluum campaign id set
 
 1 - update voluum username & password in adwords_conversions.php
