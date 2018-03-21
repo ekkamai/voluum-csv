@@ -9,7 +9,7 @@ Generates a CSV for adwords to automatically import, just point the manual conve
 
 4 - point the adwords remote conversion location to the url below, with the campaign ID in the link.
 
-example.com/adword_conversions.php?cid=<<<VOLUUMCAMPAIGNID>>>
+example.com/adword_conversions.php?cid=9091ec31-6b14-4r6c-99eb-913e1a333fg1
 
 Have fun!
 
